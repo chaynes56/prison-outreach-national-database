@@ -3,6 +3,7 @@ require "test_helper"
 class PrisonsControllerTest < ActionDispatch::IntegrationTest
   setup do
     @prison = prisons(:one)
+    sign_in users(:chandra)
   end
 
   test "should get index" do

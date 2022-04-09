@@ -1,5 +1,6 @@
 class PrisonsController < ApplicationController
   before_action :set_prison, only: %i[ show edit update destroy ]
+  before_action :authenticate_user!
 
   # GET /prisons or /prisons.json
   def index
