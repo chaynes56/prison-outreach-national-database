@@ -35,6 +35,9 @@ gem "redis", "~> 4.0"
 
 gem "devise"
 
+# Added as workaround to this annoying issue: https://github.com/ruby/net-imap/issues/16
+gem "net-http"
+
 # Use Kredis to get higher-level data types in Redis [https://github.com/rails/kredis]
 # gem "kredis"
 
