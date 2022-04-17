@@ -16,6 +16,9 @@
 
 To bring centering prayer to every prison and every prisoner in America.
 
+<img width="240" alt="keating-in-prison" src="https://user-images.githubusercontent.com/1895292/163723400-5f1f9b55-fda3-41af-9ad3-fe690509b7a7.png">
+
+
 ## Getting started
 
 ... instructions will go here 
