@@ -1,5 +1,3 @@
 steps:
-  - label: "build"
-    command: RAILS_ENV=test bundle exec rails assets:precompile
-  - label: "tests 🔨"
-    command: rails test
+  - label: "CPD build and test"
+    command: ci/build_and_test.sh
