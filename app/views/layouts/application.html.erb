@@ -2,6 +2,7 @@
 <html>
   <head>
     <title>Prison</title>
+    <%= favicon_link_tag 'favicon.ico' %>
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <%= csrf_meta_tags %>
     <%= csp_meta_tag %>
@@ -16,7 +17,10 @@
     <p class="notice"><%= notice %></p>
     <p class="alert"><%= alert %></p>
     <!-- end flash -->
-    <main class="container mx-auto mt-28 px-5 flex">
+    <main class="">
+      <!-- class was: 'container mx-auto mt-28 px-5 flex'
+           with some components it looks good, others it does not.
+           I think created by tailwind gem. -->
       <%= yield %>
     </main>
   </body>
