@@ -21,7 +21,17 @@ To bring centering prayer to every prison and every prisoner in America.
 
 ## Getting started
 
-... instructions will go here 
+### Mac
+
+You need the Ruby language and Ruby on Rails framework installed.
+
+Install [postgres app](https://postgresapp.com/) for your database (if you don't already have postgres installed).
+
+### Windows 
+Please create a PR with instructions.
+
+### Linux
+Please create a PR with instructions.
 
 ## Contributing
 
