@@ -1,6 +1,8 @@
 # README
 
 [![Build status](https://badge.buildkite.com/9845e5b8b88222c0ea37291bec0e5a913340ac49b33d050eda.svg)](https://buildkite.com/vaxcalc-labs-llc/pond)
+[![Maintainability](https://api.codeclimate.com/v1/badges/a01591ce35fdfffe4982/maintainability)](https://codeclimate.com/github/Centering-Prayer-Prison-Outreach/prison-outreach-national-database/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/a01591ce35fdfffe4982/test_coverage)](https://codeclimate.com/github/Centering-Prayer-Prison-Outreach/prison-outreach-national-database/test_coverage)
 
 ## Background
 
