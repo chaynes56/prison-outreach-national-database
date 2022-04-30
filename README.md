@@ -1,8 +1,8 @@
 # README
 
 [![Build status](https://badge.buildkite.com/9845e5b8b88222c0ea37291bec0e5a913340ac49b33d050eda.svg)](https://buildkite.com/vaxcalc-labs-llc/pond)
-[![Maintainability](https://api.codeclimate.com/v1/badges/a01591ce35fdfffe4982/maintainability)](https://codeclimate.com/github/Centering-Prayer-Prison-Outreach/prison-outreach-national-database/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/a01591ce35fdfffe4982/test_coverage)](https://codeclimate.com/github/Centering-Prayer-Prison-Outreach/prison-outreach-national-database/test_coverage)
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/acaa9d3ee20a4f6da2ed80b7b25b501d)](https://www.codacy.com/gh/Centering-Prayer-Prison-Outreach/prison-outreach-national-database/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Centering-Prayer-Prison-Outreach/prison-outreach-national-database&amp;utm_campaign=Badge_Grade)
 
 ## Background
 

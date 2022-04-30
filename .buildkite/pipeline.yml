@@ -1,3 +1,6 @@
 steps:
   - label: "CPD build and test"
     command: ci/build_and_test.sh
+    artifact_paths:
+      - "logs/**/*"
+      - "coverage/**/*"
