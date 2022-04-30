@@ -1,7 +1,6 @@
 # README
 
 [![Build status](https://badge.buildkite.com/9845e5b8b88222c0ea37291bec0e5a913340ac49b33d050eda.svg)](https://buildkite.com/vaxcalc-labs-llc/pond)
-
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/acaa9d3ee20a4f6da2ed80b7b25b501d)](https://www.codacy.com/gh/Centering-Prayer-Prison-Outreach/prison-outreach-national-database/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Centering-Prayer-Prison-Outreach/prison-outreach-national-database&amp;utm_campaign=Badge_Grade)
 
 ## Background
